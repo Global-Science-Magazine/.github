@@ -19,6 +19,8 @@
 
 > 各仓库如有额外要求，以仓库内 README 为准。
 
+**⚠️ 严禁提交敏感信息**：API 密钥、Token、`.env` 文件、数据库密码等不得出现在任何 commit 中。详见[技术管理规范 §四](技术管理规范.md#四敏感信息管理)。
+
 ## 相关仓库
 
 - [team-ops](https://github.com/Global-Science-Magazine/team-ops)：运营文档（会议纪要、会前提纲）
